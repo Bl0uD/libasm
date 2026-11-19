@@ -1,7 +1,6 @@
 # Fichiers de compilation et binaires
 objs/
 libasm.a
-test
 
 # Fichiers macOS / IDE
 .DS_Store
